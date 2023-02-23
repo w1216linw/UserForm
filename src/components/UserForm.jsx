@@ -97,9 +97,6 @@ const UserForm = () => {
 
   return (
     <Center w="100vw" h="100vh">
-      <Form>
-
-      </Form>
       <Flex
         direction="column"
         gap="1rem"
