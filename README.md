@@ -5,4 +5,4 @@ This project allows users to input their full name, email, password, occupation,
 ReactJS, Chakra UI
 
 ## Live
-https://app.netlify.com/sites/wei-userform/settings/domain
+https://wei-userform.netlify.app/
