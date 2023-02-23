@@ -4,5 +4,3 @@ This project allows users to input their full name, email, password, occupation,
 ## Tech stack
 ReactJS, Chakra UI
 
-## Live
-https://wei-userform.netlify.app/
